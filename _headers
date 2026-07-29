@@ -1,0 +1,14 @@
+/*
+  Cache-Control: no-cache
+
+/Build/*.data
+  Content-Type: application/octet-stream
+  Content-Encoding: br
+
+/Build/*.framework.js
+  Content-Type: application/javascript
+  Content-Encoding: br
+
+/Build/*.wasm
+  Content-Type: application/wasm
+  Content-Encoding: br
